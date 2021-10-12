@@ -80,15 +80,6 @@ This analysis led to four recommendations for determining what type of films to 
 More advanced methods could be utilized to create a predictive model for profit. Work has been done on machine learning models that can predict box office income based on characteristics of the film. There are also models that can predict outcomes from a script by using natural language processing to evaluate the storyline, genre, and type of language used. This could allow Microsoft to narrow down profitable films to produce within the overarching categories recommended by this project.
 
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
-
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./student.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
